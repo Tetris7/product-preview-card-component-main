@@ -1,7 +1,5 @@
-#Frontend Mentor - Product Preview Card Component Solution.                                                                                                       
-
+# Frontend Mentor - Product Preview Card Component Solution.                                                                                                       
 ## Table of contents
-
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
@@ -12,7 +10,8 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-- [Feedbacks](#feedbacks)                                                                                                          ## Overview
+- [Feedbacks](#feedbacks)
+## Overview
 This is a solution to the Product Preview Card Component challenge on Frontend Mentor. The challenge was to build out a product preview card and get it looking as close to the design as possible.
 
 ### The challenge
@@ -22,7 +21,9 @@ View the optimal layout for the component depending on their device's screen siz
 
 See a hover state on the "Add to Cart" button.
 
-## Screenshot
+## Screenshot:
+![perfume card SS](https://github.com/user-attachments/assets/3cf6f3f0-c0b7-4ea2-b79e-0c1fc070a1ec)
+
 
 ### Links
 - Solution URL: Add later  
@@ -31,7 +32,7 @@ See a hover state on the "Add to Cart" button.
 ---
 ## My process
 ### Built with
-Semantic HTML5 markup: Using appropriate tags like <main>, <section>, and <div> to create a logical and accessible structure.
+Semantic HTML5 markup: Using appropriate tags to create a logical and accessible structure.
 
 CSS custom properties: For a more manageable and reusable stylesheet.
 
@@ -59,8 +60,6 @@ MDN Web Docs: An invaluable resource for looking up HTML, CSS, and JavaScript do
 GitHub: @Tetris7
 
 Frontend Mentor: @Tetris7
-
-
 
 ## Acknowledgments
 A big thank you to the Frontend Mentor community for the great challenge and helpful feedback. It's a fantastic way to improve my coding skills.
