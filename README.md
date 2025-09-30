@@ -27,7 +27,8 @@ See a hover state on the "Add to Cart" button.
 
 ### Links
 - Solution URL: https://github.com/Tetris7/product-preview-card-component-main.git
-- Live Site URL: 
+- Live Site URL: https://Tetris7.github.io/product-preview-card-component-main/
+
 
 ---
 ## My process
